@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#F38D25</color>
+
+    <color name="colorFacebookButton">#276bb1</color>
+    <color name="colorLineButton">#00b820</color>
+
+    <color name="color_black">#1b1b1b</color>
+    <color name="color_black02">#272727</color>
+
+
+    //theme color
+    //main theme
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_white_min">#F2F2F2</color>
+    <color name="color_white_line">#DADADA</color>
+    <color name="color_main_actionbar">#CC1B1B1B</color>
+    <color name="color_text_lable">#7F7F7F</color>
+    <color name="color_nav_color">#F7F7F7</color>
+
+
+    <color name="color_statusbar">#1B1B1B1A</color>
+
+</resources>
